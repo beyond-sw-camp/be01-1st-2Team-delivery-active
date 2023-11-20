@@ -13,7 +13,7 @@
 - 윤채영
 - 주현성
 
-## 프로젝트 구현
+## 🎈 프로젝트 구현
 #### 1. 요구사항 분석 (※제한된 기간내에 구현 가능한 요구사항 추출)
 - 사용자
     * 회원가입을 할 수 있다.
@@ -48,48 +48,53 @@
 
 #### 3. 개념적 데이터 모델링
 
-
-![KakaoTalk_20231117_124854860](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/7e7f89fe-4e9b-46d9-b489-b1ce0af3024f)
+<img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/7e7f89fe-4e9b-46d9-b489-b1ce0af3024f" width="700" height="500"/>
 
 #### 4. 논리적 데이터 모델링
 
- ![Untitled](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/e2fb6e68-ca88-4261-a06a-89223bb4be23)
+<img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/e2fb6e68-ca88-4261-a06a-89223bb4be23" width="700" height="700"/>
+
 
 #### 5. 테이블 생성 및 데이터 넣기
 
-![image](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/6e7b49f5-21bd-4738-ad73-a7e2e195cb08)
+<img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/6e7b49f5-21bd-4738-ad73-a7e2e195cb08" width="300" height="200"/>
 
-![image](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/9c821f0d-a66c-4aaa-9c74-ae6779cef76e)
+<img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/9c821f0d-a66c-4aaa-9c74-ae6779cef76e" width="600" height="200"/>
+
 
 #### 6. 테이블을 활용하여 실제로 데이터 검색해보기
 
 1. 해당가게에 주문한 회원의 배달주소/전화번호/주문메뉴 확인
    1번가게에 주문한 주문정보 확인
 
-![image](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/8d684bc3-d4e4-4707-b1c4-e7c7ae057b05)
+<img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/8d684bc3-d4e4-4707-b1c4-e7c7ae057b05" width="500" height="100"/>
 
-![image](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/d0ddf7ef-92cd-4520-9d45-f42c087f4df4)
+<img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/d0ddf7ef-92cd-4520-9d45-f42c087f4df4" width="500" height="100"/>
+
 
 2.  배달 매장 정보 조회
 냠냠분식 매장정보 조회
 
-![image](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/49fd31a8-4b0b-4b71-95d7-07b970b22130)
+<img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/49fd31a8-4b0b-4b71-95d7-07b970b22130" width="500" height="100"/>
 
-![image](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/ef9ffa73-fe7a-4b55-92e7-5ebd6007e9d7)
+<img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/ef9ffa73-fe7a-4b55-92e7-5ebd6007e9d7" width="700" height="90"/>
 
 3. 라이더 본인 배달  내역 조회
 5번 라이더 배달내역 조회
 
-![image](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/fe27c0bd-e603-406a-9467-6f29aca8aaa5)
+<img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/fe27c0bd-e603-406a-9467-6f29aca8aaa5" width="500" height="100"/>
 
-![image](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/7972c70b-38c4-4117-95a3-93122ea6308f)
+<img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/7972c70b-38c4-4117-95a3-93122ea6308f" width="500" height="100"/>
+
+
 
 4. 고객이 주문한 내역 확인
 3번 회원 배달내역 조회
 
-![image](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/2a419409-0250-4b7b-9e6b-4bf4b188db88)
+<img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/2a419409-0250-4b7b-9e6b-4bf4b188db88" width="500" height="100"/>
 
-![image](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/eaafcc05-a732-4901-8ed7-33dc32a06cb5)
+<img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/eaafcc05-a732-4901-8ed7-33dc32a06cb5" width="500" height="100"/>
+
 
 
 
