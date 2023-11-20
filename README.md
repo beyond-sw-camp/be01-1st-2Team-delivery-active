@@ -15,6 +15,8 @@
 
 ## 🎈 프로젝트 구현
 ### 1. 요구사항 분석 (※제한된 기간내에 구현 가능한 요구사항 추출)
+
+```
 - 사용자
     * 회원가입을 할 수 있다.
     * 회원가입 시 아이디,패스워드,이름,핸드폰번호,주소를 입력한다.
@@ -40,15 +42,18 @@
     * 배달원은 본인 상태를 수정할 수 있다.
     * 배달원은 주문 상태를 배달중과 배달완료로 수정할 수 있다.
     * 배달원은 주문의 도착 시간을 수정할  수 있다.
+```
 
 
 ### 2.  USECASE 다이어그램
    
    ![image](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/51053337-bb0a-4343-a1bd-92a802364a1b)
 
+
 ### 3. 개념적 데이터 모델링
 
 <img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/7e7f89fe-4e9b-46d9-b489-b1ce0af3024f" width="700" height="500"/>
+
 
 ### 4. 논리적 데이터 모델링
 
