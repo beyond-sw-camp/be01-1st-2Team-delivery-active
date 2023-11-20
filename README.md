@@ -1,4 +1,4 @@
-# 한화시스템 beyond sw캠프 1기 [Delivery-active]
+# 한화시스템 beyond sw캠프 1기 [Delivery-active]🛵
 배달어플 데이터베이스 설계 프로젝트
 
 ## 🖥 프로젝트 소개
