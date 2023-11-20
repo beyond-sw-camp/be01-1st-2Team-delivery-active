@@ -14,7 +14,7 @@
 - 주현성
 
 ## 🎈 프로젝트 구현
-#### 1. 요구사항 분석 (※제한된 기간내에 구현 가능한 요구사항 추출)
+### 1. 요구사항 분석 (※제한된 기간내에 구현 가능한 요구사항 추출)
 - 사용자
     * 회원가입을 할 수 있다.
     * 회원가입 시 아이디,패스워드,이름,핸드폰번호,주소를 입력한다.
@@ -42,27 +42,27 @@
     * 배달원은 주문의 도착 시간을 수정할  수 있다.
 
 
-#### 2.  USECASE 다이어그램
+### 2.  USECASE 다이어그램
    
    ![image](https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/51053337-bb0a-4343-a1bd-92a802364a1b)
 
-#### 3. 개념적 데이터 모델링
+### 3. 개념적 데이터 모델링
 
 <img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/7e7f89fe-4e9b-46d9-b489-b1ce0af3024f" width="700" height="500"/>
 
-#### 4. 논리적 데이터 모델링
+### 4. 논리적 데이터 모델링
 
 <img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/e2fb6e68-ca88-4261-a06a-89223bb4be23" width="700" height="700"/>
 
 
-#### 5. 테이블 생성 및 데이터 넣기
+### 5. 테이블 생성 및 데이터 넣기
 
 <img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/6e7b49f5-21bd-4738-ad73-a7e2e195cb08" width="300" height="200"/>
 
 <img src="https://github.com/beyond-sw-camp/be01-1st-2Team-delivery-active/assets/73848116/9c821f0d-a66c-4aaa-9c74-ae6779cef76e" width="600" height="200"/>
 
 
-#### 6. 테이블을 활용하여 실제로 데이터 검색해보기
+### 6. 테이블을 활용하여 실제로 데이터 검색해보기
 
 1. 해당가게에 주문한 회원의 배달주소/전화번호/주문메뉴 확인
    1번가게에 주문한 주문정보 확인
